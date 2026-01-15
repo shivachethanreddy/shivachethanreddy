@@ -27,8 +27,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Frontend & Open Source Contributions (React)**
-- 👯 I’m looking to collaborate on **Open Source Projects (Frontend / DevTools / Security Tooling)**
+- 🔭 I’m currently working on **Frontend (React)**
+- 👯 I’m looking to collaborate on **(Frontend / DevTools / Security Tooling)**
 - 🤝 I’m looking for help with **Advanced UI architecture & performance optimization**
 - 📫 How to reach me: **shivachetanreddy@gmail.com**
 
