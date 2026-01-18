@@ -1,5 +1,5 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h1 align="center">Hi 👋, I'm Shiva Chetan Reddy</h1>
+<h1 align="center">Hi, I'm Shiva Chetan Reddy</h1>
 
 <p align="center">
   <img
@@ -20,10 +20,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Frontend (React)**
-- 👯 I’m looking to collaborate on **(Frontend / DevTools / Security Tooling)**
-- 🤝 I’m looking for help with **Advanced UI architecture & performance optimization**
-- 📫 How to reach me: **shivachetanreddy@gmail.com**
+- How to reach me: **shivachethanreddy@gmail.com**
 
 ---
 
