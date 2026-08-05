@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/shivachethanreddy" target="_blank">
+  <a href="https://x.com/ShivachetanV" target="_blank">
     <img
       src="https://img.shields.io/twitter/follow/shivachethanreddy?logo=twitter&style=for-the-badge"
       alt="Twitter Follow"
