@@ -34,6 +34,9 @@
 - How to reach me: **shivachethanreddy@gmail.com**
 
 ---
+<a href="https://www.shivachetanreddy.work/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-6C63FF?style=for-the-badge" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
