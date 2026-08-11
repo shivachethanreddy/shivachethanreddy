@@ -37,6 +37,9 @@
 <a href="https://www.shivachetanreddy.work/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-6C63FF?style=for-the-badge" />
 </a>
+<p align="right" valign="top">
+  <img src="./assets/port.gif" width="100">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,9 +51,12 @@
       width="40"
     />
   </a>
+  
+
 </p>
 
 ---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -104,4 +110,3 @@
     alt="shivachethanreddy"
   />
 </p>
-
