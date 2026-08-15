@@ -20,14 +20,7 @@
 
 
 
-<p align="center">
-  <a href="https://x.com/ShivachetanV" target="_blank">
-    <img
-      src="https://img.shields.io/twitter/follow/shivachethanreddy?logo=twitter&style=for-the-badge"
-      alt="Twitter Follow"
-    />
-  </a>
-</p>
+
 
 ---
 
@@ -51,6 +44,14 @@
       width="40"
     />
   </a>
+  <a href="https://x.com/ShivachetanV" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
+    alt="X"
+    height="30"
+    width="40"
+  />
+</a>
   
 
 </p>
