@@ -113,3 +113,8 @@
     alt="shivachethanreddy"
   />
 </p>
+<img
+  src="./assets/profile-stats.svg"
+  width="700"
+  alt="shiva chetan reddy GitHub statistics"
+/>
