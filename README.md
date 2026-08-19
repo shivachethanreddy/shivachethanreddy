@@ -35,8 +35,14 @@
   </a>
 </p>
 <p align="center">
-  <img src="./assets/port.gif" width="100">
+  <img src="./assets/spider.gif" width="100">
 </p>
+<p>
+  <img src="./assets/doom.gif" width="100" align="left">
+  <img src="./assets/port.gif" width="100" align="right">
+</p>
+
+<br clear="both">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
