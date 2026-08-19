@@ -23,10 +23,12 @@
 
 
 ---
+<p align="center" >
+   <a href="mailto:shivachethanreddy@gmail.com"  >
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-- How to reach me: **shivachethanreddy@gmail.com**
-
----
 <p align="center">
   <a href="https://www.shivachetanreddy.work/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-6C63FF?style=for-the-badge" />
