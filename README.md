@@ -35,7 +35,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="./assets/spider.gif" width="100">
+  <img src="./assets/spider.gif" width="200">
 </p>
 <p>
   <img src="./assets/doom.gif" width="100" align="left">
